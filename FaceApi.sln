@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "FaceApi", ".", "{A59F0196-4F96-42D9-8450-750395D0E090}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_59147"
+		Debug.AspNetCompiler.PhysicalPath = "..\FaceApi\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59147\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_59147"
+		Release.AspNetCompiler.PhysicalPath = "..\FaceApi\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59147\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "59147"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A59F0196-4F96-42D9-8450-750395D0E090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A59F0196-4F96-42D9-8450-750395D0E090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {289132BB-16A5-453C-B77F-F8B8B43008E2}
+	EndGlobalSection
+EndGlobal
